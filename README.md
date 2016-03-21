@@ -1,5 +1,5 @@
 # githubclass
 
 
-THis is the best repo ever!!
+Learned how to use Vim, Git, and Github from Paul Logston at Learn Python NYC meetup.
 
